@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/baracita/static/css/main.e5c4f560.css",
+    "main.js": "/baracita/static/js/main.b5c1ed24.js",
+    "index.html": "/baracita/index.html",
+    "main.e5c4f560.css.map": "/baracita/static/css/main.e5c4f560.css.map",
+    "main.b5c1ed24.js.map": "/baracita/static/js/main.b5c1ed24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5c4f560.css",
+    "static/js/main.b5c1ed24.js"
+  ]
+}
