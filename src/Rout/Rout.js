@@ -10,7 +10,7 @@ export default function Rout() {
   return (
     <Router>
         <Routes>
-          <Route path="/" element={<Home/>}/>
+          <Route path="/baracita" element={<Home/>}/>
           <Route path="/about" element={<About/>}/>
           <Route path="/tutor" element={<Tutor/>}/>
           <Route path="/contact" element={<ContactUs/>}/>

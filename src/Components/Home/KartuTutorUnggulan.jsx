@@ -1,6 +1,8 @@
 import React from 'react';
 
 export default function KartuTutorUnggulan(props) {
+
+  console.log(props);
   return <div className='kartuUnggulan m-2' style={{borderRadius: '1rem', overflow: 'hidden', backgroundColor: '#cedeeb'}}>
       <img src={props.gambar} alt="" className='bg-danger' style={{width: '100%', height: '65%'}}/>
       <h5>{props.nama}</h5>

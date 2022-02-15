@@ -12,6 +12,7 @@ export default class TutorUnggulans extends Component {
     axios.get('https://baracita.herokuapp.com/listTutor').then( res => {
                 let a = Math.floor(Math.random() * (res.data.length - 2))
                 this.setState({ tutors: res.data.slice(a, a+3) })
+                console.log(this.state.tutors)
             }).catch( err  => {
                 console.log('error');
     })

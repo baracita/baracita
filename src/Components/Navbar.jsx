@@ -21,7 +21,7 @@ export default function Navbar() {
 
           <div className='listNav d-flex flex-sm-row flex-column justify-content-evenly m-0'>
             <span>
-              <Link to="/">Home</Link>
+              <Link to="/baracita">Home</Link>
             </span>
             <span>
               <Link to="/about">Tentang</Link>
