@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/baracita/static/css/main.e5c4f560.css",
-    "main.js": "/baracita/static/js/main.0beaae23.js",
+    "main.js": "/baracita/static/js/main.885c87cb.js",
     "index.html": "/baracita/index.html",
     "main.e5c4f560.css.map": "/baracita/static/css/main.e5c4f560.css.map",
-    "main.0beaae23.js.map": "/baracita/static/js/main.0beaae23.js.map"
+    "main.885c87cb.js.map": "/baracita/static/js/main.885c87cb.js.map"
   },
   "entrypoints": [
     "static/css/main.e5c4f560.css",
-    "static/js/main.0beaae23.js"
+    "static/js/main.885c87cb.js"
   ]
 }
